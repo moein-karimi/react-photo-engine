@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-photo-engine/static/css/main.663c934e.chunk.css",
+    "main.js": "/react-photo-engine/static/js/main.0be5a1af.chunk.js",
+    "main.js.map": "/react-photo-engine/static/js/main.0be5a1af.chunk.js.map",
+    "runtime~main.js": "/react-photo-engine/static/js/runtime~main.257e1710.js",
+    "runtime~main.js.map": "/react-photo-engine/static/js/runtime~main.257e1710.js.map",
+    "static/js/2.fc36bde1.chunk.js": "/react-photo-engine/static/js/2.fc36bde1.chunk.js",
+    "static/js/2.fc36bde1.chunk.js.map": "/react-photo-engine/static/js/2.fc36bde1.chunk.js.map",
+    "index.html": "/react-photo-engine/index.html",
+    "precache-manifest.d24e636b9c570b46de2222adb599344c.js": "/react-photo-engine/precache-manifest.d24e636b9c570b46de2222adb599344c.js",
+    "service-worker.js": "/react-photo-engine/service-worker.js",
+    "static/css/main.663c934e.chunk.css.map": "/react-photo-engine/static/css/main.663c934e.chunk.css.map"
+  }
+}
